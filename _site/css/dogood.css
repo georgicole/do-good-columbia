@@ -1,0 +1,49 @@
+h1 {
+  font-size: calc(4rem + 0.75vmin); }
+
+h2 {
+  font-size: calc(3rem + 0.65vmin); }
+
+h3 {
+  font-size: calc(2rem + 0.5vmin);
+  text-decoration: uppercase; }
+
+html {
+  background-color: white; }
+
+body {
+  font-size: 18px;
+  font-family: 'Rubik', sans-serif; }
+
+/*
+header {
+  color:$brand;
+  background-color: $lilita;
+}
+
+footer {
+  background-color: $raven;
+  color:white;
+}
+
+.logo img{
+  height:4em;
+}
+
+.promo-bar {
+  display:block;
+  background-color: $snail;
+  text-align:center;
+  height:2em;
+  line-height:2em;
+  p,img{
+    display:inline;
+  }
+  img {
+    height:4em;
+    vertical-align:top;
+  } 
+}
+
+
+*/
