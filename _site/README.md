@@ -1,6 +1,6 @@
-# V3 Jekyll
+# Do Good Columbia
 
-https://rcpl.github.io/v3/
+https://rcpl.github.io/do-good-columbia/
 
 Not much to see here yet. So far just a collection of The Good Parts™ of the current Richland Library web site, refactored, cleaned up with new standards. Documentation follows below:
 
