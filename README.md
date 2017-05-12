@@ -1,4 +1,4 @@
-# V3 Jekyll
+# Do Good Columbia
 
 https://rcpl.github.io/do-good-columbia/
 
